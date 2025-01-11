@@ -28,7 +28,7 @@ const TourCard3 = () => {
               <div className='flex'>
                <div className='flex items-center gap-1 text-[15px] ml-4 mt-4'>   
               <MdDateRange />
-              <h1>1 Day</h1>   
+              <h1>Half Day</h1>   
               </div>
       
               <div className='flex'>

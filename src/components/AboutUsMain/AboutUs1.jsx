@@ -32,7 +32,7 @@ const AboutUs1 = () => {
         <div className='flex flex-row-reverse about-us-main justify-start items-center lg:gap-14 md:gap-8 px-20 md:px-10 py-10 '>
             <div className=''>
             <img className='lg:w-[90%]  md:w-[100%] object-cover rounded-lg' src={photo3} alt="" />
-            <h1 className='text-center mt-2 text-slate-600 text-xl'> Aman Singh, Tour Manager  Tourist Hero.</h1>
+            <h1 className='text-center mt-2 text-slate-600 text-xl'> Amandeep Singh, Tour Manager  Tourist Hero.</h1>
             </div>
             <p className='lg:w-[70%] lg:text-[1rem] mt-4 md:w-[60%] leading-8 text-slate-700 font-OpenSans'>Aman is a skilled tour manager known for his exceptional organizational abilities and attention to detail. He handles all aspects of travel, including transportation, hotel bookings, flight arrangements, and customized itineraries, ensuring a smooth and enjoyable experience for his clients. With a deep understanding of the tourism industry, Aman tailors each trip to meet the unique preferences of travelers, offering personalized service and expert guidance. His dedication and friendly approach make him a trusted partner for anyone looking to explore new destinations with ease and comfort.</p>
         </div>
@@ -40,7 +40,7 @@ const AboutUs1 = () => {
     <div className='flex  about-us-main justify-start  items-center lg:gap-2 md:gap-2 px-20 md:px-10 py-10 '>
             <div className='flex flex-col '>
             <img className='lg:w-[80%]    md:w-[80%] object-cover rounded-lg' src={photo} alt="" />
-            <h1 className='mt-2 founder-head text-slate-600 ml-20 text-center mr-40 text-xl'> Aman Singh, Tour Manager  Tourist Hero.</h1>
+            <h1 className='mt-2 founder-head text-slate-600 ml-20 text-center mr-40 text-xl'> Gurnoop Singh, Tour Manager  Tourist Hero.</h1>
             </div>
             <p className='lg:w-[160%] lg:text-[1rem] mt-4 md:w-[100%] leading-8 text-slate-700 font-OpenSans'>Gurnoop Singh, at Tourist Hero, carries on the legacy of his father, Massa Singh, who began his journey in tourism in 1968. As part of this family-run business, Gurnoop offers city tours and cultural experiences that provide visitors with an authentic taste of Amritsar. His insightful, enjoyable, and friendly approach ensures guests experience the city's rich culture, famous temples, and attractions in a memorable way. With Gurnoop as your guide, Tourist Hero promises to make your visit to Amritsar not only informative but also warm and welcoming, leaving you with lasting memories of this vibrant city.</p>
         </div>
